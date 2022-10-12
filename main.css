@@ -6,6 +6,7 @@ h1 {
 /* beskrivelse under diagram */
 p {
     font-style: italic;
+    margin-left: auto;
 }
 
 /* Overskriften har en underline */
