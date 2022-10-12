@@ -74,11 +74,11 @@ const chart = new Chart(ctx, {
             },
             title: {
                 display: true, // "Text" bliver vist ved "true"
-                text: "Antal bird strikes på fly i sommer- og vintermåneder.", // "Text" indhold
+                text: "Antal bird strikes på fly i vinter- og sommermåneder.", // "Text" indhold
                 padding: 10,
                 font:{size: 18}
             }
 
         }
     }
-});jkn
+});
