@@ -7,7 +7,7 @@ const chart = new Chart(ctx, {
             label: "Jan",
             data: [8928],
             backgroundColor: [
-                'rgb(63, 112, 253, 0.9)' //grå
+                'rgb(63, 112, 253, 0.9)' //blå
             ],
             stack: 'Stack 0',
         },
@@ -15,7 +15,7 @@ const chart = new Chart(ctx, {
                 label: "Feb",
                 data: [8598],
                 backgroundColor: [
-                    'rgb(165, 188, 255, 0.9)' //rød
+                    'rgb(165, 188, 255, 0.9)' //lyseblå
                 ],
                 stack: 'Stack 0',
             },
@@ -23,7 +23,7 @@ const chart = new Chart(ctx, {
                 label: "Dec",
                 data: [10469],
                 backgroundColor: [
-                    'rgb(0, 44, 173, 0.9)' //rød
+                    'rgb(0, 44, 173, 0.9)' //mørkeblå
                 ],
                 stack: 'Stack 0',
             },
@@ -31,7 +31,7 @@ const chart = new Chart(ctx, {
                 label: "Juni",
                 data: [22704],
                 backgroundColor: [
-                    'rgb(254, 163, 163, 0.9)' //rød
+                    'rgb(255, 196, 0)' //gul
                 ],
                 stack: 'Stack 1',
             },
@@ -39,7 +39,7 @@ const chart = new Chart(ctx, {
                 label: "Juli",
                 data: [34950],
                 backgroundColor: [
-                    'rgb(255, 109, 109, 0.9)' //rød
+                    'rgb(255,128,0)' //orange
                 ],
                 stack: 'Stack 1',
             },
