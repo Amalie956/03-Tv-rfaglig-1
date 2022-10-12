@@ -5,7 +5,7 @@ const chart = new Chart(ctx, {
         labels: ["Vinter vs sommer"],
         datasets: [{
             label: "Jan",
-            data: [8928, 22704],
+            data: [8928],
             backgroundColor: [
                 'rgb(63, 112, 253, 0.9)' //grå
             ],
