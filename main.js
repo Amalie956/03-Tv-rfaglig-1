@@ -81,4 +81,4 @@ const chart = new Chart(ctx, {
 
         }
     }
-});
+});jkn
