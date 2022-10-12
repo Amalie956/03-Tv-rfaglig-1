@@ -1,5 +1,5 @@
 /* Overskriftens placering og grafens forklaring */
-h1, p {
+h1 {
     text-align: center;
 }
 
@@ -33,3 +33,7 @@ body{
     border-color: black;
 }
 
+p {
+    margin-left: 385px;
+    margin-right: 350px;
+}
