@@ -74,7 +74,7 @@ const chart = new Chart(ctx, {
             },
             title: {
                 display: true, // "Text" bliver vist ved "true"
-                text: "Skriv noget her" // "Text" indhold
+                text: "Antal fugleangreb på fly i sommer- og vintermåneder." // "Text" indhold
             }
         }
     }
