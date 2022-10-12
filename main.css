@@ -18,11 +18,6 @@ p {
     font-style: italic;
 }
 
-/* Diagrammets placering */
-body{
-    background-image: url("https://www.scienceabc.com/wp-content/uploads/2015/11/ Bird-hitting-to-airplane.jpg");
-}
-
 .chartCard {
     width: 100vw;
     display: flex;
