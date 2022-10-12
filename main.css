@@ -1,5 +1,5 @@
-/* Overskriftens placering */
-h1 {
+/* Overskriftens placering og grafens forklaring */
+h1, p {
     text-align: center;
 }
 
@@ -9,9 +9,6 @@ h1 {
     display: flex;
     justify-content: center;
 }
-
-/*ændring i koden kommentar fra NIcklas*/
-/*ændring i koden kommentar fra NIcklas*/
 
 /* Boksens udseende */
 .chartBox {
