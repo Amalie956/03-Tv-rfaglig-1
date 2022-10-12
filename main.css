@@ -3,6 +3,10 @@ h1, p {
     text-align: center;
 }
 
+p {
+    font-style: italic;
+}
+
 /* Diagrammets placering */
 .chartCard {
     width: 100vw;
