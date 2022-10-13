@@ -9,6 +9,7 @@ h1 {
 
 /* beskrivelse under diagram */
 p {
+    text-align: center;
     font-style: italic;
     width: 625px;
     margin: 20px auto 50px;
