@@ -28,7 +28,7 @@ const chart = new Chart(ctx, {
                 stack: 'Stack 0',
             },
             {
-                label: "Juni",
+                label: "Jun",
                 data: [22704],
                 backgroundColor: [
                     'rgb(255, 196, 0)' //gul
@@ -36,7 +36,7 @@ const chart = new Chart(ctx, {
                 stack: 'Stack 1',
             },
             {
-                label: "Juli",
+                label: "Jul",
                 data: [34950],
                 backgroundColor: [
                     'rgb(255,128,0)' //orange
@@ -44,7 +44,7 @@ const chart = new Chart(ctx, {
                 stack: 'Stack 1',
             },
             {
-                label: "August",
+                label: "Aug",
                 data: [37395],
                 backgroundColor: [
                     'rgb(252, 0, 0 , 0.9)' //rød
