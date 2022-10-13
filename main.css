@@ -2,7 +2,9 @@
 h1 {
     text-align: center;
     text-decoration: underline;
-    padding: 10px;
+    padding: 1px;
+    width: 625px;
+    margin: 20px auto 50px;
 }
 
 /* beskrivelse under diagram */
@@ -13,7 +15,6 @@ p {
 }
 
 .chartCard {
-    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
