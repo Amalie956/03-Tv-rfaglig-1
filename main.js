@@ -74,7 +74,7 @@ const chart = new Chart(ctx, {
             },
             title: {
                 display: true, // "Text" bliver vist ved "true"
-                text: "Der er langt flere antal fugle som rammer et fly om sommeren end vinteren", // "Text" indhold
+                text: "Antal fugle strejke der kolliderer med et fly om vinteren og sommeren", // "Text" indhold
                 padding: 10,
                 font:{size: 14}
             }
