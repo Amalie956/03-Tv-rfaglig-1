@@ -76,7 +76,7 @@ const chart = new Chart(ctx, {
                 display: true, // "Text" bliver vist ved "true"
                 text: "Der er langt flere antal fugle som rammer et fly om sommeren end vinteren", // "Text" indhold
                 padding: 10,
-                font:{size: 15}
+                font:{size: 14}
             }
 
         }
