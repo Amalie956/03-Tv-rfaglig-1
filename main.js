@@ -59,8 +59,9 @@ const chart = new Chart(ctx, {
                 grid: {
                     display: false // Fjernet lodret gitter ved "false"
                 },
-                stacked: true
+                stacked: true,
             },
+
             y: {
                 grid: {
                     display: false // Fjernet lodret gitter ved "false"
